@@ -1,7 +1,12 @@
-5 day avg air above 40 above 32 soil above 50
+5 day avg air temp above 40F
+min temp above 32F(Cannot drop below 32) 
+soil above 50F
 
 on or before april 1st 
 purchase before feb 25
+
+plant between feb 25 and april 1st
+(Just need 5 day clear window between these dates)
 
 no snow on ground after planting
 
