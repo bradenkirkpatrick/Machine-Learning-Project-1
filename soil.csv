@@ -1,4 +1,4 @@
-day,mean_soil_temp,mean_soil_moisture,min_soil_temp,min_soil_moisture,max_soil_temp,max_soil_moisture
+date,mean_soil_temp,mean_soil_moisture,min_soil_temp,min_soil_moisture,max_soil_temp,max_soil_moisture
 1947-01-01,-3.22,0.4772,-4.1,0.475,-1.4,0.48
 1947-01-02,-2.533333333333333,0.4983333333333333,-3.2,0.478,-1.8,0.518
 1947-01-03,-1.7333333333333334,0.515,-2.7,0.504,-0.1,0.519
